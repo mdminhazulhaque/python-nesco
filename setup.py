@@ -18,10 +18,10 @@ else:
 
 setup(
     name='nesco',
-    version='0.0.1',
+    version='0.0.2',
     author='Md Minhazul Haque',
     author_email='mdminhazulhaque@gmail.com',
-    description='A Python module for Dhaka Electric Supply Company Limited (Desco) Smart Meters',
+    description='A Python module for Northern Electric Supply Company Limited (Nesco) Smart Meters',
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=["nesco"],
