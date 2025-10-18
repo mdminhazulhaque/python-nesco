@@ -73,7 +73,7 @@ class NescoPrepaid():
         return data
 
     def get_balance(self):
-        response = self._make_request(self.SUBMIT_TYPE_MONTHLY_CONSUMPTION)
+        response = self._make_request(self.SUBMIT_TYPE_RECHARGE_HISTORY)
         data = self._extract_balance(response)
         return list(data.values())[-1]
 
