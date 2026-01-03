@@ -1,6 +1,11 @@
-# Nesco Prepaid CLI
+# 🔌 NESCO Prepaid CLI
 
-A command-line interface (CLI) tool to collect information about Nesco Prepaid Accounts.
+[![PyPI version](https://badge.fury.io/py/nesco.svg)](https://badge.fury.io/py/nesco)
+[![Python Versions](https://img.shields.io/pypi/pyversions/nesco.svg)](https://pypi.org/project/nesco/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://pepy.tech/badge/nesco)](https://pepy.tech/project/nesco)
+
+A command-line interface (CLI) tool to collect information about **Northern Electric Supply Company Limited (NESCO)** prepaid electricity accounts.
 
 ## Installation
 
